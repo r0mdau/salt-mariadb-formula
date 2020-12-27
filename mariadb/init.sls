@@ -6,6 +6,3 @@ mariadb:
   service.running:
     - name: mariadb
     - enable: True
-    - reload: True
-    - watch:
-      - file: /etc/mysql/mariadb.cnf

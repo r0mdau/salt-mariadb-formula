@@ -1,4 +1,4 @@
 ## Information
 Need to set `mariadb_version` in pillar.
 
-Version 10.3 for buster.
+Version 10.5 for bullseye.
